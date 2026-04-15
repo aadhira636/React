@@ -47,7 +47,7 @@ return (
           className="px-5 py-2 bg-blue-100 rounded-2xl"
           onClick={() => setCount(0)}
         >
-          Rest
+          Reset
         </button>
         <button
           className="px-5 py-2 bg-red-100 rounded-2xl"
