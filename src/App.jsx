@@ -27,5 +27,4 @@ function Grandchild(props) {
       <h1>Age: {props.age}</h1>
     </div>
   );
-}
-
+};
